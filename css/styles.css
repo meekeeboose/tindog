@@ -114,6 +114,30 @@ p {
   text-align: center;
 }
 
+/* Call to Action Section*/
+#cta {
+  background-color: #492540;
+  padding: 7% 15%;
+  color: #fff;
+  text-align: center;
+}
+
+.cta-heading {
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+/* Footer */
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+/* Media queries */
 @media (max-width: 1028px) {
   .title-image {
     position: static;
